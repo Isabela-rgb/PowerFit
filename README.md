@@ -1,0 +1,1 @@
+Este projeto estima a ingestão diária de calorias e macronutrientes (proteínas, carboidratos, gorduras) necessária para atingir metas de saúde ou estética, como perda de peso, ganho muscular ou manutenção. Ele calcula a taxa metabólica basal (TMB) e o gasto energético total (GET) com base nos dados do usuário e seu objetivo.
